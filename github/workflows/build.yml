@@ -13,3 +13,4 @@ jobs:
           distribution: 'temurin'
       - run: chmod +x gradlew
       - run: ./gradlew assembleDebug
+      #trigger
